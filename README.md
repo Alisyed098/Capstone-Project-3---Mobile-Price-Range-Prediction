@@ -82,7 +82,7 @@ In this problem, we do not have to predict the actual price but a price range in
 
 * **SVM with GridsearchCV**
 
-![image](https://github.com/Alisyed098/Capstone-Project-3---Mobile-Price-Range-Prediction/assets/134094832/374cb644-4359-4439-a446-178592f36766)
+      ![image](https://github.com/Alisyed098/Capstone-Project-3---Mobile-Price-Range-Prediction/assets/134094832/374cb644-4359-4439-a446-178592f36766)
 
       
 
