@@ -78,7 +78,7 @@ In this problem, we do not have to predict the actual price but a price range in
 
 * **XGBoost Regressor with GridsearchCV**
 
-![image](https://github.com/Alisyed098/Capstone-Project-3---Mobile-Price-Range-Prediction/assets/134094832/ef88960a-651f-45d2-9948-25d98aa0d9c5)
+      ![image](https://github.com/Alisyed098/Capstone-Project-3---Mobile-Price-Range-Prediction/assets/134094832/ef88960a-651f-45d2-9948-25d98aa0d9c5)
 
 * **SVM with GridsearchCV**
 
