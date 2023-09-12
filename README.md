@@ -70,7 +70,7 @@ In this problem, we do not have to predict the actual price but a price range in
 
 * **Decision Tree with GridsearchCV** 
 
- ![image](https://github.com/Alisyed098/Capstone-Project-3---Mobile-Price-Range-Prediction/assets/134094832/a0219e68-d95c-4c48-82e4-6dec6c66962d)
+  ![image](https://github.com/Alisyed098/Capstone-Project-3---Mobile-Price-Range-Prediction/assets/134094832/a0219e68-d95c-4c48-82e4-6dec6c66962d)
       
 
 * **Random Forest Regressor with GridsearchCV** 
