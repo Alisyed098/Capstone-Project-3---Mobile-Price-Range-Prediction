@@ -66,7 +66,7 @@ In this problem, we do not have to predict the actual price but a price range in
       **Model 1 (with columns screen_resolution & screen_size instead of sc_h, sc_w, px_width, px_height)**
 * **Logistic Regression** 
 
- ![image](https://github.com/Alisyed098/Capstone-Project-3---Mobile-Price-Range-Prediction/assets/134094832/771aad54-fa2b-488f-87a4-c0d3197e9f74)
+  ![image](https://github.com/Alisyed098/Capstone-Project-3---Mobile-Price-Range-Prediction/assets/134094832/771aad54-fa2b-488f-87a4-c0d3197e9f74)
 
 * **Decision Tree with GridsearchCV** 
 
