@@ -11,11 +11,11 @@ pip install -r requirements.txt
 
 It is recommended to use a new environment before running the pip install.
 
-The dataset consists of csv file: data mobile range.csv
+The dataset consists of csv file: data_mobile_price_range.csv
 
 Data Files:
 
-data mobile range.csv holds info , specification & price range of mobile phones
+data_mobile_price_range.csv holds info , specification & price range of mobile phones
 
 The repo contains main.py that runs the main script from step one until the end.
 
