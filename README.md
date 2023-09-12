@@ -92,7 +92,7 @@ In this problem, we do not have to predict the actual price but a price range in
 
 * **Logistic Regression**
 
-      ![image](https://github.com/Alisyed098/Capstone-Project-3---Mobile-Price-Range-Prediction/assets/134094832/22a7d53d-3f0a-4861-bb26-cbb62cfe9776)
+  ![image](https://github.com/Alisyed098/Capstone-Project-3---Mobile-Price-Range-Prediction/assets/134094832/22a7d53d-3f0a-4861-bb26-cbb62cfe9776)
 
 * **SVM with GridsearchCV**
 
